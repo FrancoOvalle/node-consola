@@ -25,8 +25,8 @@ console.clear(); // limpia la consola antes de realizar la tarea
 // console.log( argv.b );
 
 console.log(`la base yargs es: ${ argv.base }`);
-console.log(`dato en l: ${ argv.l}`);
-console.log(`multiplicar hasta: ${ argv.f }`);
+// console.log(`dato en l: ${ argv.l}`);
+// console.log(`multiplicar hasta: ${ argv.f }`);
 //const base = 40; 
 
 crearArchivo( argv.b, argv.l, argv.f)
